@@ -1,0 +1,533 @@
+[
+  {
+    "id": "kb_chunk_001",
+    "category": "program_basics_duration",
+    "question": "How long must I stay on your program?",
+    "variations": [
+      "How long must I stay on your program?",
+      "When can I stop my payments?",
+      "Can I cancel anytime?",
+      "Is there a fixed contract period?",
+      "How long does the whole thing take?"
+    ],
+    "answer": "There is no fixed period. It is NOT Debt Review. You may EXIT any time you like. If you have a special goal, like wanting to buy a CAR, we can give you an estimate of the time required to qualify[cite: 4].",
+    "keywords": ["duration", "exit", "cancel", "contract", "debt review"]
+  },
+  {
+    "id": "kb_chunk_002",
+    "category": "program_basics_duration",
+    "question": "When can I STOP my payments to you?",
+    "variations": [
+      "When can I stop paying?",
+      "Can I stop my Score Fix Instalment?",
+      "When do I finish paying you?"
+    ],
+    "answer": "It depends on your goals: Do you only want breathing space until your finances improve? Do you want to improve your CREDIT SCORE to qualify for loans? Or do you want to reduce your debt without Debt Review? You can STOP paying your Score Fix Instalment as soon as you achieve your goals[cite: 4]. Because this is NOT Debt Review, you can EXIT the Program any time without penalty[cite: 4].",
+    "keywords": ["stop payments", "goals", "credit score", "exit"]
+  },
+  {
+    "id": "kb_chunk_003",
+    "category": "program_basics_duration",
+    "question": "Why must I stay on the Score Fix Program if I feel I can handle my accounts on my own?",
+    "variations": [
+      "Why should I stay on the program?",
+      "Can I handle accounts on my own?",
+      "What happens if I leave?"
+    ],
+    "answer": "It is NOT Debt Review, so you may EXIT the Program any time you want[cite: 4]. The question is: WHEN WILL YOU BE READY? Answer: When there is NO risk of Judgement and attachment of Assets, and when you can afford to pay the original Instalments[cite: 4]. The Attorneys on our panel will guide you[cite: 4]. Note: You will lose the benefit of the Attorneys' negotiating power when you leave[cite: 4].",
+    "keywords": ["handle accounts", "attorneys", "judgement", "assets"]
+  },
+  {
+    "id": "kb_chunk_004",
+    "category": "legal_compliance",
+    "question": "It sounds like Debt Review. How can I be sure I won't end up under Debt Review?",
+    "variations": [
+      "Is this debt review?",
+      "How can I be sure I won't end up under debt review?",
+      "Will I be placed under debt review?"
+    ],
+    "answer": "It is NOT Debt Review. Here are the differences: (1) YOU may qualify for Booster Loans after 4-6 months[cite: 4]. (2) The Program is managed by Attorneys, NOT by Debt Counsellors[cite: 4]. (3) YOU can exit the Score Fix Program any time you like[cite: 4]. (4) Paragraph 6 of the MANDATE clearly states you will NOT be placed under Debt Review[cite: 4]. (5) Unlike Debt Review, you may EXIT the Score Fix Program any time[cite: 4]. (6) We are not registered as Debt Counsellors—you can check the NCR website to verify[cite: 4].",
+    "keywords": ["debt review", "mandate", "attorneys", "ncr"]
+  },
+  {
+    "id": "kb_chunk_005",
+    "category": "legal_compliance",
+    "question": "How do I know this is not a trap for Debt Review?",
+    "variations": [
+      "Is this a trap?",
+      "How do I know this is safe?",
+      "Where do my payments go?"
+    ],
+    "answer": "It is NOT Debt Review[cite: 4]. The MANDATE specifically addresses these concerns[cite: 4]. Furthermore, we DON'T collect money from Consumers[cite: 4]. All monies are paid into the Trust Bank Account of the Attorneys who will be in charge of your SCORE FIX PLAN[cite: 4]. You have the protection of the Attorney Fidelity Fund[cite: 4].",
+    "keywords": ["trap", "trust account", "fidelity fund", "attorneys"]
+  },
+  {
+    "id": "kb_chunk_006",
+    "category": "credit_reputation",
+    "question": "Will I be blacklisted if I subscribe to your Score Fix Program?",
+    "variations": [
+      "Will I be blacklisted?",
+      "Does this affect my credit report?",
+      "Will arrears show on my report?"
+    ],
+    "answer": "It is NOT Debt Review, hence you will NOT be blacklisted under the WARNING section of your Credit Report[cite: 4]. However, ARREARS on your accounts will be reported to the Credit Bureaus[cite: 4]. This will not block you from qualifying for Loans, provided you pass the Affordability test[cite: 4].",
+    "keywords": ["blacklisted", "credit report", "arrears", "affordability"]
+  },
+  {
+    "id": "kb_chunk_007",
+    "category": "fees_and_costs",
+    "question": "How much is your FEES?",
+    "variations": [
+      "How much are your fees?",
+      "What do you charge?",
+      "What are the costs?"
+    ],
+    "answer": "The FEES depend on how many ACCOUNTS you have[cite: 4]. The Fees/Costs are disclosed in the MANDATE[cite: 4].",
+    "keywords": ["fees", "costs", "mandate"]
+  },
+  {
+    "id": "kb_chunk_008",
+    "category": "fees_and_costs",
+    "question": "I don't have money to pay your Fees. When must I pay your Fees?",
+    "variations": [
+      "I cannot afford your fees",
+      "Do I need to pay a deposit?",
+      "Are there upfront fees?"
+    ],
+    "answer": "We DON'T ask for a DEPOSIT[cite: 4]. We DON'T ask UPFRONT Fees[cite: 4]. ALL Fees are included in your Score Fix Instalment—so you NEVER have to worry about how you are going to pay our Fees[cite: 4].",
+    "keywords": ["deposit", "upfront fees", "score fix instalment"]
+  },
+  {
+    "id": "kb_chunk_009",
+    "category": "fees_and_costs",
+    "question": "Can you reduce the Score Fix Amount?",
+    "variations": [
+      "Can you lower my monthly payment?",
+      "Can you reduce the instalment amount?",
+      "I cannot afford the full amount"
+    ],
+    "answer": "Our policy is that you only pay what you can AFFORD[cite: 4]. Meaning we can indeed reduce the Instalment Amount[cite: 4].",
+    "keywords": ["reduce amount", "afford", "lower instalment"]
+  },
+  {
+    "id": "kb_chunk_010",
+    "category": "fees_and_costs",
+    "question": "My problem is that I don't have enough money after paying my Accounts.",
+    "variations": [
+      "I don't have enough money for living expenses",
+      "How do you improve my cash flow?",
+      "What happens to my salary balance?"
+    ],
+    "answer": "The Score Fix Program will improve your CASH FLOW so you can AFFORD all your Living expenses without putting you under Debt Review[cite: 4]. Here's how: (1) Tell us how much you need for all Living Expenses (Rental, groceries, travelling, School Fees, etc)[cite: 4]. (2) The BALANCE of your Salary is paid to the ATTORNEYS on our panel[cite: 4]. (3) The ATTORNEYS contact your CREDITORS to ask for BALANCES[cite: 4]. (4) The ATTORNEYS work out a PAYMENT PLAN for each Creditor[cite: 4]. (5) The ATTORNEYS use the money you pay to distribute to your Creditors[cite: 4]. (6) You receive a DISTRIBUTION REPORT + PROOF OF PAYMENTS monthly[cite: 4].",
+    "keywords": ["cash flow", "living expenses", "distribution report", "attorneys"]
+  },
+  {
+    "id": "kb_chunk_011",
+    "category": "operational_process",
+    "question": "Do you settle all my Accounts and then I pay you?",
+    "variations": [
+      "Is this a consolidation loan?",
+      "Do you settle all my accounts at once?"
+    ],
+    "answer": "No, this is NOT how we work[cite: 4]. You are referring to a Consolidation Loan[cite: 4]. We are NOT a Lender and can NOT provide Consolidation loans[cite: 4]. What we do is BETTER than a Consolidation Loan[cite: 4].",
+    "keywords": ["consolidation loan", "settle accounts", "lender"]
+  },
+  {
+    "id": "kb_chunk_012",
+    "category": "operational_process",
+    "question": "Please explain how your process works. I'm confused.",
+    "variations": [
+      "How does this work?",
+      "Explain the process simply",
+      "Give me an example of how debt reduction works"
+    ],
+    "answer": "It is a VOLUNTARY process—IT IS NOT DEBT REVIEW[cite: 4]. We reduce your Instalments to improve your CASH FLOW without placing you under Debt Review[cite: 4]. Example: JOE paid R10,000 towards his Debt Accounts BEFORE[cite: 4]. JOE only pays R3,000 AFTER[cite: 4]. JOE saves R7,000 every month and can now pay his DEBTS + LIVING EXPENSES (Rental, groceries, etc)[cite: 4]. JOE will qualify for Booster Loans after 4-6 months[cite: 4]. The Program is managed by Attorneys, not by Debt Counsellors[cite: 4]. JOE can exit the Score Fix Program any time he likes[cite: 4].",
+    "keywords": ["process", "joe example", "cash flow", "voluntary"]
+  },
+  {
+    "id": "kb_chunk_013",
+    "category": "payment_management",
+    "question": "WHEN DO YOU PAY MY CREDITORS?",
+    "variations": [
+      "When do creditors get paid?",
+      "When is my first payment distributed?",
+      "What happens to my first instalment?"
+    ],
+    "answer": "Normally after payment of your 2nd Score Fix Instalment[cite: 4]. We first investigate your Account for compliance with the NCA (Credit Act) regarding interest, prescription, reckless lending, etc[cite: 4]. This process normally takes 3-6 weeks[cite: 4]. The 1st Instalment is therefore normally used towards Costs—remember we don't require a Deposit[cite: 4].",
+    "keywords": ["pay creditors", "2nd instalment", "nca", "investigation"]
+  },
+  {
+    "id": "kb_chunk_014",
+    "category": "payment_management",
+    "question": "How will I know you paid my Creditors?",
+    "variations": [
+      "How do I get proof of payment?",
+      "Do you send distribution reports?"
+    ],
+    "answer": "You will receive a Distribution Report + ABSA proof of payments[cite: 4]. This will automatically be sent to your email address within 48 hours after your Creditors were paid[cite: 4].",
+    "keywords": ["distribution report", "proof of payment", "absa"]
+  },
+  {
+    "id": "kb_chunk_015",
+    "category": "loan_qualification",
+    "question": "I went to the BANK for a CAR loan or HOME loan but did not qualify.",
+    "variations": [
+      "Why did the bank reject my loan?",
+      "I was declined for a bond or car finance"
+    ],
+    "answer": "The MAIN REASONS you don't qualify are: (1) Lack of Affordability, (2) Credit Score too low[cite: 4]. Don't worry—our Score Fix Program can FIX this[cite: 4].",
+    "keywords": ["car loan", "home loan", "rejected", "affordability"]
+  },
+  {
+    "id": "kb_chunk_016",
+    "category": "loan_qualification",
+    "question": "Will I be able to get Loans while registered on your Program?",
+    "variations": [
+      "Can I get a loan while on the program?",
+      "Can I apply for credit?",
+      "When do I qualify for booster loans?"
+    ],
+    "answer": "It is NOT Debt Review, so you are NOT blocked from applying for Loans or any other form of Credit[cite: 4]. In fact, the Score Fix Program will improve your CREDIT SCORE + AFFORDABILITY, helping you qualify for LOANS while on the PROGRAM[cite: 4]. One of the LENDERS on our panel provide SPECIAL BOOSTER LOANS to our clients—normally after 4-6 months[cite: 4].",
+    "keywords": ["loans", "credit", "booster loans", "affordability"]
+  },
+  {
+    "id": "kb_chunk_017",
+    "category": "loan_qualification",
+    "question": "When will I be able to get a Booster Loan?",
+    "variations": [
+      "How soon can I get a booster loan?",
+      "What are the conditions for a booster loan?"
+    ],
+    "answer": "You will only qualify for a Booster Loan once your SCORE has improved, normally after 4-6 Months[cite: 4]. You must prove to the LENDERS on our panel that you can AFFORD a NEW Loan[cite: 4].",
+    "keywords": ["booster loan", "score improved", "afford"]
+  },
+  {
+    "id": "kb_chunk_018",
+    "category": "loan_qualification",
+    "question": "How much is a Booster Loan? Why is the amount so small?",
+    "variations": [
+      "Why is my booster loan amount so low?",
+      "How much can I borrow with a booster loan?"
+    ],
+    "answer": "The Amount depends on the RISK Profile on your ITC and your AFFORDABILITY[cite: 4]. The LENDERS will test the water first[cite: 4]. Your 1st Booster Loan normally varies between R500-R2,000 and will grow exponentially with Credit Score improvement[cite: 4].",
+    "keywords": ["booster loan amount", "itc risk", "r500", "r2000"]
+  },
+  {
+    "id": "kb_chunk_019",
+    "category": "loan_qualification",
+    "question": "Do I have to take the BOOSTER LOAN? What if I DON'T want to take it out?",
+    "variations": [
+      "Can I decline a booster loan?",
+      "What happens if I don't want a booster loan?"
+    ],
+    "answer": "You DON'T have to take a BOOSTER LOAN[cite: 4]. But you will miss out on BENEFITS: (1) to BOOST your CREDIT SCORE, (2) to BOOST your CASH FLOW, (3) to set you up for a REHABILITATION Loan to pay off debt much quicker (T's & C's apply)[cite: 4].",
+    "keywords": ["decline booster loan", "benefits", "rehabilitation loan"]
+  },
+  {
+    "id": "kb_chunk_020",
+    "category": "breathing_space",
+    "question": "I only need breathing space. I only have a temporary problem with my Income.",
+    "variations": [
+      "Can I use this for temporary relief?",
+      "I just need breathing space for a few months"
+    ],
+    "answer": "Our Score Fix Program is Flexible—unlike Debt Review[cite: 4]. It is indeed possible to provide breathing space until your financial position improves[cite: 4]. It is NOT Debt Review—you can EXIT the Program whenever you feel you can handle your Accounts on your own again[cite: 4].",
+    "keywords": ["breathing space", "temporary problem", "flexible"]
+  },
+  {
+    "id": "kb_chunk_021",
+    "category": "accounts_management",
+    "question": "Do you take over my CAR instalment? Do you take over my HOME loan instalment?",
+    "variations": [
+      "Can I include my car loan?",
+      "Can I include my bond or house payment?"
+    ],
+    "answer": "We DON'T include CAR + HOME Loans[cite: 4]. Why? (1) We want you to pay 100% of your CAR and/or HOME Loan every month to BOOST your Credit Score[cite: 4]. (2) We want to protect your most important assets against legal processes[cite: 4]. Don't worry—we will make sure you have enough money to pay these Instalments[cite: 4].",
+    "keywords": ["car loan", "home loan", "bond", "assets"]
+  },
+  {
+    "id": "kb_chunk_022",
+    "category": "accounts_management",
+    "question": "Can I include my Cell phone Account? Municipality? Levies?",
+    "variations": [
+      "Can I include service accounts?",
+      "Can I add my municipality or cellphone bill?"
+    ],
+    "answer": "We DON'T include service related Accounts[cite: 4].",
+    "keywords": ["cell phone", "municipality", "levies", "service accounts"]
+  },
+  {
+    "id": "kb_chunk_023",
+    "category": "accounts_management",
+    "question": "Can I keep my Foschini Account? Edgars? Clothing Accounts?",
+    "variations": [
+      "Can I keep my clothing accounts?",
+      "Can I keep store accounts?"
+    ],
+    "answer": "Yes, you may keep your Clothing Accounts[cite: 4]. In fact, it is VERY GOOD for your Credit Score[cite: 4]. It will obviously depend on what you can AFFORD[cite: 4]. We do regular Credit checks to monitor your progress[cite: 4].",
+    "keywords": ["clothing accounts", "foschini", "edgars", "store accounts"]
+  },
+  {
+    "id": "kb_chunk_024",
+    "category": "accounts_management",
+    "question": "CAN I KEEP MY LOAN ACCOUNTS AND CREDIT CARDS?",
+    "variations": [
+      "Can I keep my credit card?",
+      "Can I keep personal loans?"
+    ],
+    "answer": "Yes you may, as long as you can AFFORD the Instalments every month[cite: 4]. We do regular Credit checks to monitor your progress[cite: 4].",
+    "keywords": ["loan accounts", "credit card", "afford"]
+  },
+  {
+    "id": "kb_chunk_025",
+    "category": "accounts_management",
+    "question": "Can I include my husband/wife/partner?",
+    "variations": [
+      "Can my spouse join?",
+      "Can we do a joint debt review?"
+    ],
+    "answer": "It is NOT Debt Review, so we DON'T include your spouse or partner[cite: 4]. However, your spouse or partner is welcome to join the Program any time[cite: 4].",
+    "keywords": ["spouse", "partner", "husband", "wife"]
+  },
+  {
+    "id": "kb_chunk_026",
+    "category": "accounts_management",
+    "question": "My CAR is in arrears. The BANK wants to repossess my CAR.",
+    "variations": [
+      "Car is in arrears",
+      "Bank is repossessing my car"
+    ],
+    "answer": "We DON'T deal with Arrears on CAR loans[cite: 4]. However, the Attorneys on our panel can advise on a PLAN you can present to the BANK to negotiate payment of the Arrears[cite: 4].",
+    "keywords": ["car arrears", "repossession", "negotiate"]
+  },
+  {
+    "id": "kb_chunk_027",
+    "category": "bank_account_changes",
+    "question": "WHY MUST I CHANGE MY BANK?",
+    "variations": [
+      "Why do I need a new bank account?",
+      "Can I keep my current salary account?"
+    ],
+    "answer": "To AVOID double deductions[cite: 4]. You CANNOT stop certain DEDUCTIONS on your current Bank Account—not even a COURT ORDER can stop them[cite: 4]. You can merely SUSPEND certain payments[cite: 4]. You need a clean Bank record to qualify for Credit in future[cite: 4]. For instance, you cannot buy a CAR with a Bad Bank record[cite: 4].",
+    "keywords": ["change bank", "double deductions", "court order"]
+  },
+  {
+    "id": "kb_chunk_028",
+    "category": "bank_account_changes",
+    "question": "I have changed my BANK but it's too late for HR. So what can I do now?",
+    "variations": [
+      "HR is too late for bank change",
+      "How do I suspend debit orders?"
+    ],
+    "answer": "You may SUSPEND the Debit Order payments of the Accounts to be included in our Program[cite: 4]. However, you must do this at least 2 days prior to receiving your Salary[cite: 4]. This gives you time to make arrangements for the following month[cite: 4].",
+    "keywords": ["hr", "suspend debit order", "salary"]
+  },
+  {
+    "id": "kb_chunk_029",
+    "category": "bank_account_changes",
+    "question": "I have a second Bank Account—can I use that?",
+    "variations": [
+      "Can I use my existing second account?"
+    ],
+    "answer": "Yes, you may[cite: 4]. But only if it is NOT with the same Bank you are currently using for your Salary[cite: 4].",
+    "keywords": ["second bank account", "same bank"]
+  },
+  {
+    "id": "kb_chunk_030",
+    "category": "bank_account_changes",
+    "question": "I have already changed Bank recently. My Employer will not allow me to change again this year.",
+    "variations": [
+      "Employer won't let me change bank again"
+    ],
+    "answer": "Unfortunately, we will not be able to assist you with the Score Fix Program if that is the case[cite: 4]. You will be exposed to double deductions, and we can NOT stop the current deductions on your current Bank Account[cite: 4].",
+    "keywords": ["employer", "cannot assist", "double deductions"]
+  },
+  {
+    "id": "kb_chunk_031",
+    "category": "creditor_contact",
+    "question": "WILL I STILL RECEIVE PHONE CALLS FROM MY CREDITORS?",
+    "variations": [
+      "Will debt collectors still call me?",
+      "When do creditor calls stop?"
+    ],
+    "answer": "Yes, but only for a while[cite: 4]. The LAW dictates that DEBT COLLECTORS and ATTORNEYS may NOT contact you while you are registered on the PROGRAM[cite: 4]. At least 80% of the calls will STOP fairly quickly[cite: 4]. The other 20% will subside as soon as a new Payment pattern is established[cite: 4]. Calls may start again IF an Account is sold to a 3rd Party, IF a New Collection Attorney is appointed, OR IF an Account is handed over for collection[cite: 4]. In such case our Attorneys will immediately take action[cite: 4].",
+    "keywords": ["phone calls", "debt collectors", "attorneys", "harassment"]
+  },
+  {
+    "id": "kb_chunk_032",
+    "category": "credit_score_improvement",
+    "question": "When will my Credit Score improve?",
+    "variations": [
+      "How long to fix credit score?",
+      "How do I expedite rehabilitation?"
+    ],
+    "answer": "It depends on outstanding Balances, nature of Accounts, Risk factor, etc[cite: 4]. You can EXPEDITE the Rehabilitation process by: (1) INCREASING your Monthly Score Fix Instalment when able, (2) Using BOOSTER LOAN proceeds for extra payments, (3) REFRAINING from making New Debt, (4) Following GUIDELINES of your REHABILITATION Plan[cite: 4]. NOTE: You DON'T have to pay off ALL Debt to IMPROVE your Credit Score[cite: 4]. It depends on the type of Credit you want[cite: 4]. A HOME loan requires longer preparation than a Payday loan[cite: 4].",
+    "keywords": ["credit score improve", "expedite", "rehabilitation"]
+  },
+  {
+    "id": "kb_chunk_033",
+    "category": "credit_score_improvement",
+    "question": "What about the Interest on my Accounts? Do I still have to pay Interest?",
+    "variations": [
+      "Do I still pay interest?",
+      "Can you stop interest on my debt?"
+    ],
+    "answer": "Interest is NOT your biggest issue—your AFFORDABILITY is[cite: 4]. LENDERS are liable to pay Capital + Interest to Investors, so they are reluctant to negotiate lower interest on reduced Instalments[cite: 4]. But there is RELIEF: (1) The in duplum Rule places a ceiling on Interest + Costs—at some point you will no longer pay Interest + Costs[cite: 4]. (2) The Score Fix Rehabilitation Plan can reduce the total amount of Interest + Costs[cite: 4]. Many clients have paid less Interest + Costs than stipulated in the Credit Agreement[cite: 4].",
+    "keywords": ["interest", "in duplum", "affordability", "ceiling"]
+  },
+  {
+    "id": "kb_chunk_034",
+    "category": "legitimacy_safety",
+    "question": "WHAT IS THE CATCH? IS THIS LEGIT?",
+    "variations": [
+      "Is this legit?",
+      "What is the catch?",
+      "Are you registered?"
+    ],
+    "answer": "There is NO catch[cite: 4]. Yes, it is legit[cite: 4]. All our Service Providers are duly registered with relevant governing bodies (Legal Practice Council, CIPC, etc)[cite: 4]. You will receive a copy of the Fidelity Fund Certificate of the Attorneys[cite: 4]. You have the protection of the Attorney Fidelity Fund[cite: 4]. Our website is www.debtwinner.co.za[cite: 4].",
+    "keywords": ["catch", "legit", "fidelity fund", "website"]
+  },
+  {
+    "id": "kb_chunk_035",
+    "category": "special_circumstances",
+    "question": "Some of the Loans on my Profile were made for my husband/wife/spouse/partner. Who must pay?",
+    "variations": [
+      "Partner's loan on my profile",
+      "Who is liable for joint family loans?"
+    ],
+    "answer": "There are 2 parties to a Credit Agreement: The Lender and The Borrower[cite: 4]. If you entered the Credit Agreement as the Borrower, then YOU will personally be liable[cite: 4]. However, you will have the right to recover money paid from your husband/wife/partner IF you can prove you did not benefit from the Loan proceeds[cite: 4].",
+    "keywords": ["spouse loan", "borrower", "recover money"]
+  },
+  {
+    "id": "kb_chunk_036",
+    "category": "special_circumstances",
+    "question": "I borrowed money from a friend/family. Can you include this in the Score Fix Plan?",
+    "variations": [
+      "Can I include family loans?",
+      "Informal loans from friends"
+    ],
+    "answer": "The Attorneys will require a Formal Credit Agreement to include such a Loan[cite: 4]. The exchange of money must also be proved, and your Bank Account must confirm the REASON for the Loan[cite: 4].",
+    "keywords": ["family loan", "friend loan", "formal agreement"]
+  },
+  {
+    "id": "kb_chunk_037",
+    "category": "special_circumstances",
+    "question": "I receive Child Maintenance. Must I use this money to pay Debt?",
+    "variations": [
+      "Is child maintenance used for debt?",
+      "Are maintenance funds protected?"
+    ],
+    "answer": "Child Maintenance must be utilized towards the needs of the child (accommodation, food, school, medical, etc)[cite: 4]. Although you must legally disclose this money to Creditors, the law dictates that the child's maintenance needs must receive preference[cite: 4]. Child Maintenance are protected against legal action[cite: 4].",
+    "keywords": ["child maintenance", "preference", "protected"]
+  },
+  {
+    "id": "kb_chunk_038",
+    "category": "special_circumstances",
+    "question": "I am divorced. The court ruled my ex must pay certain Accounts. Can you remove this Account?",
+    "variations": [
+      "Divorce decree and debt accounts",
+      "Ex-spouse supposed to pay account"
+    ],
+    "answer": "Yes we can[cite: 4]. However, the Court's ruling does not mean your ex became a Party to the Credit Agreement[cite: 4]. The Credit Provider can still take Judgement against you IF your ex defaults on payments[cite: 4].",
+    "keywords": ["divorce", "ex spouse", "court ruling", "judgement"]
+  },
+  {
+    "id": "kb_chunk_039",
+    "category": "special_circumstances",
+    "question": "I am eligible for promotion or new job but they want a CREDIT CHECK. Can you help?",
+    "variations": [
+      "Credit check for new job",
+      "Remove debt review for promotion"
+    ],
+    "answer": "A candidate may be disqualified if there are JUDGEMENTS, TRACING ALERTS, INSOLVENCY NOTIFICATION, or DEBT REVIEW listings[cite: 4]. The Attorneys on our panel can assist with REMOVAL of negative information that may disqualify you for promotion or a new job[cite: 4]. For instance, we can remove you from Debt Review if that will block you[cite: 4].",
+    "keywords": ["job promotion", "credit check", "tracing alerts", "judgements"]
+  },
+  {
+    "id": "kb_chunk_040",
+    "category": "special_accounts_arrears",
+    "question": "My child's School Fees are in Arrears. Can you include this in the Score Fix Plan?",
+    "variations": [
+      "School fees in arrears",
+      "Can school fees be added to debt plan?"
+    ],
+    "answer": "Yes we can[cite: 4]. However, some School Governing bodies insist the responsible parent must personally apply for relief[cite: 4]. The Attorneys will furnish you with information to present to the Governing body[cite: 4].",
+    "keywords": ["school fees", "arrears", "governing body"]
+  },
+  {
+    "id": "kb_chunk_041",
+    "category": "special_accounts_arrears",
+    "question": "My Municipality account is in Arrears. Can you include this in the Score Fix Plan?",
+    "variations": [
+      "Municipality arrears",
+      "Municipal debt inclusion"
+    ],
+    "answer": "Only if Judgement has already been taken OR if Summons were issued[cite: 4]. If not, you will have to visit your local Municipality to make Arrangements[cite: 4]. The Attorneys will furnish you with relevant information to negotiate a suitable Arrangement[cite: 4]. This is another reason why you need to open a New Bank Account—if your Debit Order fails, the Municipality will issue Summons[cite: 4].",
+    "keywords": ["municipality", "summons", "judgement", "arrangements"]
+  },
+  {
+    "id": "kb_chunk_042",
+    "category": "special_accounts_arrears",
+    "question": "I have Medical bills that are in Arrears. Can you include this?",
+    "variations": [
+      "Medical bills arrears",
+      "Hospital accounts inclusion"
+    ],
+    "answer": "Yes, the Attorneys on our panel will deal with this on your behalf[cite: 4].",
+    "keywords": ["medical bills", "arrears", "attorneys"]
+  },
+  {
+    "id": "kb_chunk_043",
+    "category": "special_accounts_arrears",
+    "question": "I am in arrears with my rental. Can you include this as well?",
+    "variations": [
+      "Rental arrears",
+      "Landlord debt inclusion"
+    ],
+    "answer": "Rental Accommodation forms part of necessary LIVING EXPENSES[cite: 4]. The Attorneys will make an offer to your Landlord or their Attorney[cite: 4]. IF accepted, your Rental will be included[cite: 4]. However, we can NOT guarantee the outcome of the Attorney negotiations[cite: 4].",
+    "keywords": ["rental arrears", "landlord", "living expenses"]
+  },
+  {
+    "id": "kb_chunk_044",
+    "category": "special_accounts_arrears",
+    "question": "I owe SARS. Can you include them in the Score Fix Plan?",
+    "variations": [
+      "SARS tax debt inclusion",
+      "Tax arrears"
+    ],
+    "answer": "No, unfortunately not[cite: 4]. SARS only deals with the Taxpayer or a formally registered Tax Consultant or duly appointed Attorney if it has become a legal matter[cite: 4].",
+    "keywords": ["sars", "tax debt", "tax consultant"]
+  },
+  {
+    "id": "kb_chunk_045",
+    "category": "special_accounts_arrears",
+    "question": "What about Garnishee's on my Salary? Can you stop the Garnishee's?",
+    "variations": [
+      "Garnishee orders on salary",
+      "Emolument attachment order"
+    ],
+    "answer": "The Attorneys will investigate whether the Garnishee was granted legally[cite: 4]. If not, they will immediately apply for RECISSION of the Judgment + Garnishee[cite: 4]. If it is a legal Garnishee, it will form part of your Score Fix Rehabilitation Plan[cite: 4].",
+    "keywords": ["garnishee", "salary", "recission", "judgment"]
+  },
+  {
+    "id": "kb_chunk_046",
+    "category": "written_off_accounts",
+    "question": "According to my Credit Report, some Accounts have been WRITTEN OFF. Does this mean I don't have to pay?",
+    "variations": [
+      "Written off accounts",
+      "Do I pay written off debt?"
+    ],
+    "answer": "\"WRITTEN OFF\" does NOT mean the LENDER has waived the right to take legal action[cite: 4]. It is an ADVERSE listing confirming the Lender has decided to take legal action[cite: 4]. The listing will stay 12 months—this will block you from qualifying for Credit during those 12 months[cite: 4]. The Lender may issue Summons and apply for Judgement[cite: 4]. We must deal with this Account in your Score Fix Plan[cite: 4].",
+    "keywords": ["written off", "adverse listing", "legal action"]
+  },
+  {
+    "id": "kb_chunk_047",
+    "category": "rehabilitation_details",
+    "question": "If I have extra money, can I make payments to my creditors myself as well?",
+    "variations": [
+      "Can I pay extra to creditors directly?",
+      "Extra payments on rehabilitation plan"
+    ],
+    "answer": "Preferably NOT[cite: 4]. Payments are made per your REHABILITATION Plan[cite: 4]. IF you make extra payments, the Credit Provider may DEMAND the Rehabilitation Instalment be INCREASED, which you cannot afford[cite: 4]. We advise paying extra money into your REHABILITATION FUND in the ATTORNEY TRUST ACCOUNT[cite: 4]. This money is used for Settlements and negotiating stays of legal action[cite: 4].",
+    "keywords": ["extra payments", "rehabilitation fund", "attorney trust"]
+  }
+]
